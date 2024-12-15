@@ -21,27 +21,19 @@ Mau custom web ucapan online? Order Aja di Deka Tutorial !! (DM untuk order)
 konten = [
   {
     gambar: "puppy1.gif",
-    ucapan: "Hai Lumann, how's life??",
+    ucapan: "Hai Stevyy, Glad to know you"
   },
   {
     gambar: "puppy3.gif",
-    ucapan: "Semangat kuliah nya calon bu dokter.. Wish you luck on                 your Mid-term Exam :>",
+    ucapan: "Congrats for almost completed this semester well!",
   },
   {
     gambar: "puppy6.png",
-    ucapan: "Don't be keboo anymore belajar yang benerr, Soalnya                    kepintaran anak dari mama nya:v",
-  },
-  {
-    gambar: "puppy2.gif",
-    ucapan: "Wish the time could bring us to meet again.. mwehehehehe",
-  },
-  {
-    gambar: "puppy10.gif",
-    ucapan: "Maybe in another life, or another christmast (amen xixi)",
+    ucapan: "Wish you the best result on ur Final Exam",
   },
   {
     gambar: "puppy5.jpg",
-    ucapan: "The next project will be available on 21st of March 2025,              but for the special one any request is accepted:))",
+    ucapan: "I think that's all, hope u like it ^^ ",
   },
 ];
 
